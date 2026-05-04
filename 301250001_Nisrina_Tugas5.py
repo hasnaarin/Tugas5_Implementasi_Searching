@@ -1,3 +1,9 @@
+# Nama Program : Implementasi linear search dan binary search
+# Nama Pembuat : Nisrina Dwi Hasna
+# NIM : 301250001
+# Tanggal Pembuatan : 04 Mei 2026
+# Nama File : 301250001_Nisrina_Tugas5.py
+
 def linear_search(arr, target):
     """
     Linear Search: memeriksa elemen satu per satu dari awal hingga akhir.
